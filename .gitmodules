@@ -1,0 +1,6 @@
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/jpstorm21/gateway-example-grpc.git
+[submodule "micro-users"]
+	path = micro-users
+	url = https://github.com/jpstorm21/users-service-example-grpc.git
